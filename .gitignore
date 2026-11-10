@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.pyc\noutputs/*.png\noutputs/*.csv\noutputs/*.txt\n
